@@ -1,3 +1,3 @@
 # SpaceShooter 
 
-![Alt text](https://github.com/sabssilva/spaceshooterblob/Screenshots/master/screenshot.png "screenshot")
+![Alt text](https://github.com/sabssilva/spaceshooter/blob/Screenshots/master/screenshot.png "screenshot")
